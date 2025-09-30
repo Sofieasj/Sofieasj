@@ -23,7 +23,7 @@ DAFE2200 Software Development - 10 credits - individual school exam
 
 ## 🔧 Technologies I've Worked With / Am Learning
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,idea,docker,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,spring,figma,idea)](https://skillicons.dev)
 
 <!--
 **Sofieasj/Sofieasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
