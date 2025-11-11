@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ### 👨‍💻 About Me
-I'm Sofie, currently studying Applied Computer Technology at OsloMet - Oslo Metropolitan University, class of 2027.  
+I'm Sofie! Currently studying Applied Computer Technology at OsloMet, class of 2027.  
 I'm curious about technology, and passionate about learning and creating programs that make a difference.  
-I'm interested in the development process, backend programming especially, green and efficient code, and universal design and accessibility.
+I'm particularily interested in backend programming, especially green and efficient code, the development process, and universal design and accessibility.
 
 ## 📚Courses I've Taken So Far
 ### 🎓 First Semester
