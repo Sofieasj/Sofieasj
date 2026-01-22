@@ -16,10 +16,15 @@ ADSE1310 Internet off Things - 10 credits - individual and group home exam
 DATA1500 Databases – 10 credits – individual school exam  
 DATA1700 Web Programming – 10 credits – individual school exam
 
-### 🎓 Third semester - ongoing
+### 🎓 Third semester
 ADTS1600 Interaction Design and Prototyping - 10 credits - group home exam  
 DATS2300 Algorithms and Datastrictures - 10 credits - individual school exam  
 DAFE2200 Software Development - 10 credits - individual school exam
+
+### 🎓 Fourth semester - ongoing
+DATA2500 Operative systems - 10 credits - individual school exam
+ADSE3200 Visualization - 10 credits - individual school exam
+ADTS2310 Testing of software - 10 credits - individual school exam
 
 ## 🔧 Technologies I've Worked With / Am Learning
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql)](https://skillicons.dev)
