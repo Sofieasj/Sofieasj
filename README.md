@@ -22,9 +22,9 @@ DATS2300 Algorithms and Datastrictures - 10 credits - individual school exam
 DAFE2200 Software Development - 10 credits - individual school exam
 
 ### 🎓 Fourth semester - ongoing
-DATA2500 Operative systems - 10 credits - individual school exam
-ADSE3200 Visualization - 10 credits - individual school exam
-ADTS2310 Testing of software - 10 credits - individual school exam
+DATA2500 Operative systems - 10 credits - individual school exam  
+ADSE3200 Visualization - 10 credits - individual school exam  
+ADTS2310 Testing of software - 10 credits - individual school exam  
 
 ## 🔧 Technologies I've Worked With / Am Learning
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql)](https://skillicons.dev)
