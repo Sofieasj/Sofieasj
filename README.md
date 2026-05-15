@@ -29,8 +29,7 @@ I'm particularily interested in resource efficient "green" code, the development
 [ADTS2310 Testing of software](https://student.oslomet.no/studier/-/studieinfo/emne/ADTS2310/2025/H%C3%98ST) - 10 credits - individual school exam  
 
 ## 🔧 Technologies I've Worked With / Am Learning
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,spring,figma,idea,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,html,css,bootstrap,mysql,bash,linux,docker,figma,idea,git)](https://skillicons.dev)  
 
 <!--
 **Sofieasj/Sofieasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
