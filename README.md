@@ -5,8 +5,6 @@ I'm Sofie! Currently studying Applied Computer Technology with a specialization 
 I'm curious about technology, and passionate about learning and creating programs that make a difference.  
 I'm particularily interested in resource efficient "green" code, the development process (each step from planning to testing 🔍), and universal design and accessibility.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sofie-a-s-jensen/)
-
 ## 📚Courses I've Taken So Far
 ### 🎓 First Semester
 [DAPE1400 Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DAPE1400/2024/H%C3%98ST) – 10 credits – individual school exam  
