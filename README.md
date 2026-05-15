@@ -1,34 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-### 👨‍💻 About Me
-I'm Sofie! Currently studying Applied Computer Technology at OsloMet, class of 2027.  
+## 👩‍💻 About Me
+I'm Sofie! Currently studying Applied Computer Technology with a specialization in programming at OsloMet, class of 2027.  
 I'm curious about technology, and passionate about learning and creating programs that make a difference.  
-I'm particularily interested in resource efficient "green" code, the development process, and universal design and accessibility.
+I'm particularily interested in resource efficient "green" code, the development process (each step from planning to testing 🔍), and universal design and accessibility.
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sofie-a-s-jensen/)
 
 ## 📚Courses I've Taken So Far
 ### 🎓 First Semester
-DAPE1400 Programming – 10 credits – individual school exam  
-DATA1200 Inclusive Web Design – 5 credits – group home exam  
-DATA1100 Technology and Society for Programmers - 5 credits - individual home exam  
+[DAPE1400 Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DAPE1400/2024/H%C3%98ST) – 10 credits – individual school exam  
+[DATA1200 Inclusive Web Design](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1200/2024/H%C3%98ST) – 5 credits – group home exam  
+[DATA1100 Technology and Society for Programmers](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1100/2024/H%C3%98ST) - 5 credits - individual home exam  
 
 ### 🎓 Second Semester
-ADSE1310 Internet off Things - 10 credits - individual and group home exam  
-DATA1500 Databases – 10 credits – individual school exam  
-DATA1700 Web Programming – 10 credits – individual school exam
+[ADSE1310 Internet off Things](https://student.oslomet.no/studier/-/studieinfo/emne/ADSE1310/2024/H%C3%98ST) - 10 credits - individual and group home exam  
+[DATA1500 Databases](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1500/2024/H%C3%98ST) – 10 credits – individual school exam  
+[DATA1700 Web Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2024/H%C3%98ST) – 10 credits – individual school exam
 
 ### 🎓 Third semester
-ADTS1600 Interaction Design and Prototyping - 10 credits - group home exam  
-DATS2300 Algorithms and Datastrictures - 10 credits - individual school exam  
-DAFE2200 Software Development - 10 credits - individual school exam
+[ADTS1600 Interaction Design and Prototyping](https://student.oslomet.no/studier/-/studieinfo/emne/ADTS1600/2025/H%C3%98ST) - 10 credits - group home exam  
+[DATS2300 Algorithms and Datastructures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2025/H%C3%98ST) - 10 credits - individual school exam  
+[DAFE2200 Software Development](https://student.oslomet.no/studier/-/studieinfo/emne/DAFE2200/2025/H%C3%98ST) - 10 credits - individual school exam
 
 ### 🎓 Fourth semester - ongoing
-DATA2500 Operative systems - 10 credits - individual school exam  
-ADSE3200 Visualization - 10 credits - individual school exam  
-ADTS2310 Testing of software - 10 credits - individual school exam  
+[DATA2500 Operative systems](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2500/2025/H%C3%98ST) - 10 credits - individual school exam  
+[ADSE3200 Visualization](https://student.oslomet.no/studier/-/studieinfo/emne/ADSE3200/2025/H%C3%98ST) - 10 credits - individual school exam  
+[ADTS2310 Testing of software](https://student.oslomet.no/studier/-/studieinfo/emne/ADTS2310/2025/H%C3%98ST) - 10 credits - individual school exam  
 
 ## 🔧 Technologies I've Worked With / Am Learning
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,spring,figma,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,spring,figma,idea,git)](https://skillicons.dev)
 
 <!--
 **Sofieasj/Sofieasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
