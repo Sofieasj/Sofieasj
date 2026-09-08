@@ -27,9 +27,9 @@ I'm particularily interested in resource efficient "green" code, the development
 [ADTS2310 Testing of software](https://student.oslomet.no/studier/-/studieinfo/emne/ADTS2310/2025/H%C3%98ST) - 10 credits - individual school exam  
 
 ### 🎓 Fifth semester - ongoing
-[ITPE3200 Webapplikasjoner](https://student.oslomet.no/studier/-/studieinfo/emne/ITPE3200/2026/H%C3%98ST) - 10 credits - group portfolio exam 
-[ITPE3100 Datasikkerhet](https://student.oslomet.no/studier/-/studieinfo/emne/ITPE3100/2026/H%C3%98ST) - 10 credits - individual school exam  
-[DAVE3625 Introduksjon til kunstig intelligens](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2026/H%C3%98ST) - 10 credits - individual school exam  
+[ITPE3200 Webapplikasjoner](https://student.oslomet.no/studier/-/studieinfo/emne/ITPE3200/2026/H%C3%98ST) - 10 credits - group portfolio exam   
+[ITPE3100 Datasikkerhet](https://student.oslomet.no/studier/-/studieinfo/emne/ITPE3100/2026/H%C3%98ST) - 10 credits - individual school exam    
+[DAVE3625 Introduksjon til kunstig intelligens](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2026/H%C3%98ST) - 10 credits - individual school exam    
 [ADSE2100 Menneske-maskin interaksjon](https://student.oslomet.no/studier/-/studieinfo/emne/ADSE2100/2026/H%C3%98ST) - 10 credits - individual portfolio exam  
 Teaching assistant in [DAPE1400 Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DAPE1400/2026/H%C3%98ST)
 
