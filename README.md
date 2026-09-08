@@ -21,10 +21,18 @@ I'm particularily interested in resource efficient "green" code, the development
 [DATS2300 Algorithms and Datastructures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2025/H%C3%98ST) - 10 credits - individual school exam  
 [DAFE2200 Software Development](https://student.oslomet.no/studier/-/studieinfo/emne/DAFE2200/2025/H%C3%98ST) - 10 credits - individual school exam
 
-### 🎓 Fourth semester - ongoing
+### 🎓 Fourth semester
 [DATA2500 Operative systems](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2500/2025/H%C3%98ST) - 10 credits - individual school exam  
 [ADSE3200 Visualization](https://student.oslomet.no/studier/-/studieinfo/emne/ADSE3200/2025/H%C3%98ST) - 10 credits - individual school exam  
 [ADTS2310 Testing of software](https://student.oslomet.no/studier/-/studieinfo/emne/ADTS2310/2025/H%C3%98ST) - 10 credits - individual school exam  
+
+### 🎓 Fifth semester - ongoing
+[ITPE3200 Webapplikasjoner](https://student.oslomet.no/studier/-/studieinfo/emne/ITPE3200/2026/H%C3%98ST) - 10 credits - group portfolio exam 
+[ITPE3100 Datasikkerhet](https://student.oslomet.no/studier/-/studieinfo/emne/ITPE3100/2026/H%C3%98ST) - 10 credits - individual school exam  
+[DAVE3625 Introduksjon til kunstig intelligens](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2026/H%C3%98ST) - 10 credits - individual school exam  
+[ADSE2100 Menneske-maskin interaksjon](https://student.oslomet.no/studier/-/studieinfo/emne/ADSE2100/2026/H%C3%98ST) - 10 credits - individual portfolio exam  
+Teaching assistant in [DAPE1400 Programming](https://student.oslomet.no/studier/-/studieinfo/emne/DAPE1400/2026/H%C3%98ST)
+
 
 ## 🔧 Technologies I've Worked With / Am Learning
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,html,css,bootstrap,mysql,bash,linux,docker,figma,idea,git)](https://skillicons.dev)  
