@@ -2,8 +2,8 @@
 
 ## 👩‍💻 About Me
 I'm Sofie! Currently studying Applied Computer Technology with a specialization in programming at OsloMet, class of 2027.  
-I'm curious about technology, and passionate about learning and creating programs that make a difference.  
-I'm particularily interested in resource efficient "green" code, the development process (each step from planning to testing 🔍), and universal design and accessibility.
+I'm curious about technology, and passionate about learning and creating solutions that solve real problems in a way that makes them easy and engaging to use.  
+I'm particularly interested in resource efficient "green" code, good UX-research for more accurate problem understanding and relevant solutions, testing, and universal design and accessibility.
 
 ## 📚Courses I've Taken So Far
 ### 🎓 First Semester
