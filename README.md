@@ -35,7 +35,7 @@ Teaching assistant in [DAPE1400 Programming](https://student.oslomet.no/studier/
 
 
 ## 🔧 Technologies I've Worked With / Am Learning
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,html,css,bootstrap,mysql,bash,linux,docker,figma,idea,git)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,dotnet,python,mysql,bash,linux,docker,js,ts,react,html,css,bootstrap,figma)](https://skillicons.dev)  
 
 <!--
 **Sofieasj/Sofieasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
